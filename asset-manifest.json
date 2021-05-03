@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Freebook/static/css/main.c5306f07.chunk.css",
+    "main.js": "/Freebook/static/js/main.06c4f3cb.chunk.js",
+    "main.js.map": "/Freebook/static/js/main.06c4f3cb.chunk.js.map",
+    "runtime-main.js": "/Freebook/static/js/runtime-main.3bd54363.js",
+    "runtime-main.js.map": "/Freebook/static/js/runtime-main.3bd54363.js.map",
+    "static/css/2.51bc814a.chunk.css": "/Freebook/static/css/2.51bc814a.chunk.css",
+    "static/js/2.94daf050.chunk.js": "/Freebook/static/js/2.94daf050.chunk.js",
+    "static/js/2.94daf050.chunk.js.map": "/Freebook/static/js/2.94daf050.chunk.js.map",
+    "static/js/3.cf628b9c.chunk.js": "/Freebook/static/js/3.cf628b9c.chunk.js",
+    "static/js/3.cf628b9c.chunk.js.map": "/Freebook/static/js/3.cf628b9c.chunk.js.map",
+    "index.html": "/Freebook/index.html",
+    "static/css/2.51bc814a.chunk.css.map": "/Freebook/static/css/2.51bc814a.chunk.css.map",
+    "static/css/main.c5306f07.chunk.css.map": "/Freebook/static/css/main.c5306f07.chunk.css.map",
+    "static/js/2.94daf050.chunk.js.LICENSE.txt": "/Freebook/static/js/2.94daf050.chunk.js.LICENSE.txt",
+    "static/media/NewBook.module.css": "/Freebook/static/media/book_7.3070d9e7.jpg",
+    "static/media/Featured.module.css": "/Freebook/static/media/featured_2.c303bbda.jpg",
+    "static/media/styles.css": "/Freebook/static/media/revicons.e8746a62.woff",
+    "static/media/Home.module.css": "/Freebook/static/media/slider_03.af561d04.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bd54363.js",
+    "static/css/2.51bc814a.chunk.css",
+    "static/js/2.94daf050.chunk.js",
+    "static/css/main.c5306f07.chunk.css",
+    "static/js/main.06c4f3cb.chunk.js"
+  ]
+}
