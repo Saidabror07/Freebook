@@ -1,0 +1,15 @@
+@media (max-width: 767px){
+    ol.carousel-indicators{
+        display: none !important;
+    }
+}
+.navbar-light .navbar-toggler{
+    color: #fff !important;
+    background-color: #fff !important;
+    display: flex;
+    font-size: 15px;
+    width: 40px;
+    padding: 4px;
+    justify-content: center;
+    align-items: center;
+}

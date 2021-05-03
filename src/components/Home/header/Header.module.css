@@ -1,0 +1,49 @@
+.container{
+    position: relative;
+}
+.navbar{
+    background-color: transparent;
+}
+.navbar a{
+    color: #fff;
+    font-size: 35px;
+    align-items: center;
+}
+.navbar a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+.nav a{
+    margin-right: 20px;
+    padding: 0px 15px 8px;
+    padding-top: 24px;
+    font-size: 14px;
+    color: #fff;
+    border-bottom: 1px solid transparent;
+    transition: 0.3s all ease;
+}
+.nav a:hover{
+    color: #fff;
+    border-bottom: 1px solid rgb(147, 147, 255);
+    text-decoration: none;
+}
+.bag{
+    position: absolute;
+    top: 22px;
+    font-size: 22px;    
+    color: #fff;
+    right: 7%;
+}
+
+@media (max-width: 991px){
+    .bag{
+        top: 10px;
+        right: 0;
+    }
+}

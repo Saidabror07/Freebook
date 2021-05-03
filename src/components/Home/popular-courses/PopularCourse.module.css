@@ -1,0 +1,90 @@
+.container{
+   background-color: transparent;
+   width: 100%;
+   padding-bottom: 60px;
+}
+.cardDeck{
+    display: flex;
+    width: 100%;
+}
+.card{
+    padding-top: 7px;
+    margin: 0px 10px;
+}
+.container h1{
+    margin: 45px 0px 30px;
+    text-align: center;
+    font-size: 26px;
+    color: #96919d;
+}
+.image_1,.image_2,.image_3,.image_4{
+    width: 94%;
+    min-height: 333px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+.image_1{
+    background: url("../../../assets/book_2.jpg") no-repeat center/cover;
+}
+.image_2{
+    background: url("../../../assets/book_7.jpg") no-repeat center/cover;
+}
+.image_3{
+    background: url("../../../assets/book_3.jpg") no-repeat center/cover;
+}
+.image_4{
+    background: url("../../../assets/book_6.jpg") no-repeat center/cover;
+}
+
+.image:hover{
+    cursor: pointer;
+}
+.cardBody{
+    position: relative;
+    z-index: 10;
+    padding: 20px 30px 10px;
+}
+.cardTitle{
+    font-size: 16px !important;
+}
+.cardText{
+    font-size: 14px;
+    text-align: justify;
+}
+.button{
+    width: 80px;
+    border: 1px solid #bfc7c8;
+    border-radius: 18px;
+    padding: 0px 10px;
+    background-color:  #fff;
+    margin-bottom: 5px;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: left;
+    transition: 0.6s all ease;
+}
+.button:hover{
+    color: #fff;
+    background-color: #2f2b35;
+}
+
+@media (max-width: 991px){
+    .container{
+        padding-bottom: 25px;
+    }
+    .card{
+        width: 210px;
+        margin-bottom: 20px;
+    }
+    .card:last-child{
+        margin-bottom: 0px;
+    }
+    .cardDeck{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 489px){
+    .card{
+        width: 100%;
+    }
+}
