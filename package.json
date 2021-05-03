@@ -1,6 +1,6 @@
 {
   "homepage": "http://Saidabror07.github.io/Freebook",
-  "name": "my-app", 
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,7 +26,7 @@
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
-    "extends": [ 
+    "extends": [
       "react-app",
       "react-app/jest"
     ]
