@@ -87,7 +87,7 @@ const Home = () => {
       <div className={s.dotted_line}></div>
       <Container className={s.cookingBook}>
         <NavLink to='/'>
-          <img src='./images/cookingBook.jpg' />
+          <img src='./Freebook/img/cookingBook.jpg' />
         </NavLink>
       </Container>
     </div>
