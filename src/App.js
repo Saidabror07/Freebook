@@ -12,7 +12,6 @@ const App = () => {
       <div className='content'>
         <Footer />
       </div>
-      <div>lorem impusm</div>
     </div>
   )
 }
