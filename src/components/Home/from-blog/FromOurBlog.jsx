@@ -27,7 +27,7 @@ const FromOurBlog = () => {
           </span>
         </div>
         <div className={s.card}>
-          <img src='../image/blog_2.jpg' />
+          <img src='./image/blog_2.jpg' />
           <h4 className={s.title}>Hello World!</h4>
           <p className={s.date}>July 12, 2019</p>
           <span className={s.description}>
