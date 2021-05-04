@@ -13,14 +13,18 @@
     align-items: center;
     border: 1px solid rgba(255, 255, 255, 0.164) !important;
 }
-.navbar-toggler-icon{
+.navbar-toggler.collapsed, .navbar-toggler-icon{
     display: none !important;
 }
+
 @media (max-width: 991px){
     .navbar-toggler-icon{
         font-size: 14px;
         background-color: rgba(255, 255, 255, 0.26) !important;
         border-radius: 2px;
+    }
+    .navbar-toggler.collapsed, .navbar-toggler-icon{
         display: flex !important;
     }
+
 }
