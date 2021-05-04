@@ -17,7 +17,7 @@ const FromOurBlog = () => {
           </span>
         </div>
         <div className={s.card}>
-          <img src='./Freebook/img/blog_1.jpg' />
+          <img src='./Freebook/blog_1.jpg' />
           <h4 className={s.title}>Hello World!</h4>
           <p className={s.date}>July 12, 2019</p>
           <span className={s.description}>
@@ -27,7 +27,7 @@ const FromOurBlog = () => {
           </span>
         </div>
         <div className={s.card}>
-          <img src='./Freebook/img/blog_2.jpg' />
+          <img src='./Freebook/blog_2.jpg' />
           <h4 className={s.title}>Hello World!</h4>
           <p className={s.date}>July 12, 2019</p>
           <span className={s.description}>
@@ -37,7 +37,7 @@ const FromOurBlog = () => {
           </span>
         </div>
         <div className={s.card}>
-          <img src='./Freebook/img/blog_3.jpg' />
+          <img src='./Freebook/blog_3.jpg' />
           <h4 className={s.title}>Hello World!</h4>
           <p className={s.date}>July 12, 2019</p>
           <span className={s.description}>

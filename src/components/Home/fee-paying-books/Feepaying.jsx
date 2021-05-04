@@ -5,13 +5,13 @@ const Feepaying = () => {
   return (
     <Container className={s.container}>
       <div className={s.layer}>
-        <img src='./Freebook/img/feepaying_1.jpg' />
+        <img src='./Freebook/feepaying_1.jpg' />
         <span className={s.sale}>80% off</span>
         <span className={s.title}>Travel Books</span>
         <button className={s.goToBook}>I want this books</button>
       </div>
       <div className={s.layer}>
-        <img src='./Freebook/img/feepaying_2.jpg' />
+        <img src='./Freebook/feepaying_2.jpg' />
         <span className={s.sale} style={{ backgroundColor: '#7d4dde' }}>
           45% off
         </span>
@@ -19,7 +19,7 @@ const Feepaying = () => {
         <button className={s.goToBook}>I want this books</button>
       </div>
       <div className={s.layer}>
-        <img src='./Freebook/img/feepaying_3.jpg' />
+        <img src='./Freebook/feepaying_3.jpg' />
         <span className={s.sale} style={{ backgroundColor: '#dc4dde' }}>
           50% off
         </span>
