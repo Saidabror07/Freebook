@@ -87,7 +87,7 @@ const Home = () => {
       <div className={s.dotted_line}></div>
       <Container className={s.cookingBook}>
         <NavLink to='/'>
-          <img src={require('./image/cookingBook.jpg')} />
+          <img src='./image/cookingBook.jpg' />
         </NavLink>
       </Container>
     </div>
