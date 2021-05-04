@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Freebook/static/css/main.c5306f07.chunk.css",
-    "main.js": "/Freebook/static/js/main.5ed8ec7c.chunk.js",
-    "main.js.map": "/Freebook/static/js/main.5ed8ec7c.chunk.js.map",
+    "main.js": "/Freebook/static/js/main.a2a3d52e.chunk.js",
+    "main.js.map": "/Freebook/static/js/main.a2a3d52e.chunk.js.map",
     "runtime-main.js": "/Freebook/static/js/runtime-main.3bd54363.js",
     "runtime-main.js.map": "/Freebook/static/js/runtime-main.3bd54363.js.map",
     "static/css/2.51bc814a.chunk.css": "/Freebook/static/css/2.51bc814a.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.51bc814a.chunk.css",
     "static/js/2.94daf050.chunk.js",
     "static/css/main.c5306f07.chunk.css",
-    "static/js/main.5ed8ec7c.chunk.js"
+    "static/js/main.a2a3d52e.chunk.js"
   ]
 }
