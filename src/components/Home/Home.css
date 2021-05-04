@@ -5,11 +5,22 @@
 }
 .navbar-light .navbar-toggler{
     color: #fff !important;
-    background-color: #fff !important;
     display: flex;
     font-size: 15px;
     width: 40px;
     padding: 4px;
     justify-content: center;
     align-items: center;
+    border: 1px solid rgba(255, 255, 255, 0.164) !important;
+}
+.navbar-toggler-icon{
+    display: none !important;
+}
+@media (max-width: 991px){
+    .navbar-toggler-icon{
+        font-size: 14px;
+        background-color: rgba(255, 255, 255, 0.26) !important;
+        border-radius: 2px;
+        display: flex !important;
+    }
 }
