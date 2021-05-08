@@ -1,12 +1,9 @@
 import React from 'react'
-import s from './Bookstore.module.css'
+import { Search } from 'react-bootstrap-icons'
 import Header from './header/Header'
-import { Container } from 'react-bootstrap'
 import Navbar from './navbar/Navbar'
-import Search from '../Global/search/Search'
-import Books_Container from './books/BooksContainer'
-
-const Bookstore = () => {
+import s from './Contact.module.css'
+const Contact = () => {
   return (
     <>
       <div className={s.bgColor_1}>
@@ -18,11 +15,8 @@ const Bookstore = () => {
       <div className={s.bgColor_3}>
         <Search />
       </div>
-      <div className={s.bgColor_4}>
-        <Books_Container />
-      </div>
     </>
   )
 }
 
-export default Bookstore
+export default Contact

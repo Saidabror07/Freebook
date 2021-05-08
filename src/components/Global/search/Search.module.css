@@ -44,7 +44,7 @@
         margin-top: 20px;
 }
 }
-@media (max-width: 443px){
+@media (max-width: 459px){
     .container{
         flex-direction: column;
     }

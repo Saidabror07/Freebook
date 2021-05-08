@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 55px 0px;
+}
+.title{
+    text-align: center;
+    padding: 5px 0;
+    color: #ffffff;
+    font-size: 45px;
+    font-weight: normal;
+    line-height: 50px;
+    text-transform: capitalize;
+}
+.subTitle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+.subTitle span{
+    margin: 0px 10px;
+}
+.subTitle a{
+    color: #fff;
+}
+.subTitle a:visited{
+    color: #fff;
+}
+.subTitle a:hover{
+    text-decoration: none;
+}
+
+

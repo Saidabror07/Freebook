@@ -1,12 +1,12 @@
 import React from 'react'
-import s from './Bookstore.module.css'
-import Header from './header/Header'
 import { Container } from 'react-bootstrap'
-import Navbar from './navbar/Navbar'
 import Search from '../Global/search/Search'
-import Books_Container from './books/BooksContainer'
+import Header from './header/Header'
+import Navbar from './navbar/Navbar'
+import s from './Blog.module.css'
+import MyBlog from './myBlog/MyBlog'
 
-const Bookstore = () => {
+const Blog = () => {
   return (
     <>
       <div className={s.bgColor_1}>
@@ -18,11 +18,11 @@ const Bookstore = () => {
       <div className={s.bgColor_3}>
         <Search />
       </div>
-      <div className={s.bgColor_4}>
-        <Books_Container />
+      <div className={s.bgColor_3}>
+        <MyBlog />
       </div>
     </>
   )
 }
 
-export default Bookstore
+export default Blog
